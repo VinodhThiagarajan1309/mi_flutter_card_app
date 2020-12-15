@@ -2,6 +2,7 @@
 
 A flutter app built using the following Widgets, Assets and other Flutter Properties,
   - Circle Avatar
+  - Safe Area Widget
   - Column
   - Row
   - Card
