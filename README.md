@@ -20,6 +20,7 @@ A flutter app built using the following Widgets, Assets and other Flutter Proper
 - [https://www.materialpalette.com/](https://www.materialpalette.com/)
 - [https://www.materialpalette.com/icons](https://www.materialpalette.com/icons)
 - [https://www.materialpalette.com/colors](https://www.materialpalette.com/colors)
+- [https://appicon.co/](https://appicon.co/)
 
 ## Layouts Reference and Terminologies:
 
